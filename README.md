@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman siddiqui</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fsoftware-engineer-concept-web-design-260nw-2012624867.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsoftware%2Bengineer%2Bcartoon&tbnid=RthZDbCmFba7xM&vet=12ahUKEwiwrebzxNz1AhX8_zgGHZIiDa8QMygCegUIARDUAQ..i&docid=voJE7_8Qlk-SMM&w=433&h=280&itg=1&q=animated%20image%20for%20coder&hl=en&ved=2ahUKEwiwrebzxNz1AhX8_zgGHZIiDa8QMygCegUIARDUAQ" width="1000" height="300">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F2698297-software-developer-programming-in-desktop-with-code-symbols&psig=AOvVaw3tObCVU5Q2Q7CW-cEoVk4O&ust=1643737341032000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiFxI7F3PUCFQAAAAAdAAAAABAL" width="1000" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansiddiqui75&label=Profile%20views&color=0e75b6&style=flat" alt="salmansiddiqui75" /> </p>
 

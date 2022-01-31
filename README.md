@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman siddiqui</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="![image](https://user-images.githubusercontent.com/81064986/151847134-33aea608-4de1-4c91-9572-6f03817ae03b.png)">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5g-s7BVLfq4FLrHjo8e5AL1ABnn7wwK0PA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansiddiqui75&label=Profile%20views&color=0e75b6&style=flat" alt="salmansiddiqui75" /> </p>
 

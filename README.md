@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman siddiqui</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zwrzt&psig=AOvVaw3tObCVU5Q2Q7CW-cEoVk4O&ust=1643737341032000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiFxI7F3PUCFQAAAAAdAAAAABA1">
+<img src="https://image.shutterstock.com/z/stock-vector-robot-programming-and-development-engineering-and-mechatronics-illustration-1896231436.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansiddiqui75&label=Profile%20views&color=0e75b6&style=flat" alt="salmansiddiqui75" /> </p>
 

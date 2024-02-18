@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman siddiqui</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Associate Production Service Application Support Analyst at BNY Mellon Pershing</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5g-s7BVLfq4FLrHjo8e5AL1ABnn7wwK0PA&usqp=CAU" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansiddiqui75&label=Profile%20views&color=0e75b6&style=flat" alt="salmansiddiqui75" /> </p>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java developer**
 
-- 📫 How to reach me **salmansiddiqui80900@gmail.com**
+- 📫 How to reach me **salmansid8090@gmail.com**
 
 - ⚡ Fun fact **Watching movies**
 

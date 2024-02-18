@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salman-siddiqui-9aab44190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salman-siddiqui-9aab44190" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/salman-siddiqui-9aab44190](http://www.linkedin.com/in/salman-0172572aa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salman-siddiqui-9aab44190" height="30" width="40" /></a>
 <a href="https://instagram.com/salman.sid35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salman.sid35" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salman_siddiqui80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salman_siddiqui80" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/salmansiddiqui18054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="salmansiddiqui18054" height="30" width="40" /></a>
